@@ -1,6 +1,6 @@
 # Jane-Street-Market-Prediction
 My first Kaggle competition [Jane Street Market Prediction](https://www.kaggle.com/competitions/jane-street-market-prediction).
-With the score of 4433.879 (the winner score was 6476.594) I got the 138th place among 4085 teans).
+With the score of 4433.879 (the winner score was 6476.594) I got the 138th place among 4085 teams).
 
 But the most important part was that I learnt a lot about Data Science, ML and Kaggle itself from other participants. Invaluable experience.
 
